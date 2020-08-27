@@ -1,1 +1,1 @@
-# real_estate_price_rediction
+Real Estate Price Prediction Project
